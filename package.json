@@ -1,11 +1,11 @@
 {
-  "name": "contentful-starter-gatsby-blog",
-  "description": "Contentful Gatsby Starter Blog",
+  "name": "jelloper's blog",
+  "description": "끝이 미비하지 않게..",
   "private": true,
   "version": "0.0.1",
   "author": "Contentful <opensource@contentful.com>",
   "bugs": {
-    "url": "https://github.com/contentful/starter-gatsby-blog/issues"
+    "url": "https://3commadevmj.github.io/"
   },
   "dependencies": {
     "@contentful/rich-text-plain-text-renderer": "^15.12.1",
